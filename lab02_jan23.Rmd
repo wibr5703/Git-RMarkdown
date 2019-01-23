@@ -26,3 +26,6 @@ That's the motivational example. Here are the steps you should take:
 6. From the Git_RMarkdown folder, open the file "lab02_jan23.Rmd" in RStudio and add a bulleted list to the bottom of the document. You'll likely need to do a quick Google search to find out how to make a bulleted list in R Markdown. Your bulleted list should have two items: (1) your name and (2) your major. Save your changes to this file.
 7. You have made changes to a file in your local repository. We now want to push our changes to GitHub. To do so, in GitKraken, you should now add, commit, and finally push your changes. If you refresh GitHub, the changes you've made should now be on GitHub.
 
+*William Brickowski
+*Statistics and Data Science Major 
+
